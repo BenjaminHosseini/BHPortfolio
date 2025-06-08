@@ -42,7 +42,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Banjamin, a recent graduate from California State University Northridge with a bachelor of Computer Science.
+            Hi! I&apos;m Banjamin, a recently graduated from California State University Northridge with a bachelor of Computer Science.
           </p>
           <a href="#about">
             <MagicButton
