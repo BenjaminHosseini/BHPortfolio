@@ -72,7 +72,7 @@ const RecentProjects = () => {
                   className="flex justify-center items-center group"
                 >
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple group-hover:underline">
-                    Github Repository
+                    View
                   </p>
                   <FaLocationArrow className="ms-3 transition-transform group-hover:translate-x-1" color="#CBACF9" />
                 </a>
