@@ -75,7 +75,7 @@ export const projects = [
     des: "Google Drive Clone - an application that allow user to store and share files with others.",
     img: "/project-storeIt.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "filemanagementweb.netlify.app",
+    link: "https://filemanagementweb.netlify.app",
   },
   /*{
     id: 2,
